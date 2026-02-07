@@ -1,6 +1,6 @@
 # Trabajo Integrador – Procesamiento de Imágenes
 
-##  Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
 
@@ -91,4 +91,5 @@ https://drive.google.com/file/d/1-tyKXVZhMhkxKfCBPdL3cXyKhgJZjKDW/view?usp=shari
 
 - Las unidades de medición (área, perímetro y centroide) están expresadas en píxeles ya que se trabaja sobre imágenes digitales sin escala física real.
 - Durante el desarrollo se enfrentaron y resolvieron problemas relacionados con la carga de imágenes (`NoneType`), rutas de archivos, manejo de ventanas interactivas de OpenCV y organización automática de resultados.
+
 
